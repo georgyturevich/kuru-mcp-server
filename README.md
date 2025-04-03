@@ -8,6 +8,10 @@ This project implements a Model Context Protocol (MCP) server for accessing Kuru
 - **Tools**: Get current prices, calculate token values, and list all trading pairs
 - **Caching**: Built-in caching mechanism to reduce API calls
 
+## Demonstration
+Below is a demonstration of how to use the Kuru.io MCP server with Claude.
+![Demonstration](https://github.com/user-attachments/assets/35c4002a-56ea-46af-a262-30d953eaa586)
+
 ## Installation
 
 ```bash
